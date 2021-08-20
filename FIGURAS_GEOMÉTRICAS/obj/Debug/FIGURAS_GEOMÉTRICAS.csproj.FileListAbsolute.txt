@@ -1,0 +1,7 @@
+C:\Users\Juan\Desktop\SEMESTRE 4\Desarrollo de Software (POO)\FIGURAS_GEOMÉTRICAS\bin\Debug\FIGURAS_GEOMÉTRICAS.exe.config
+C:\Users\Juan\Desktop\SEMESTRE 4\Desarrollo de Software (POO)\FIGURAS_GEOMÉTRICAS\bin\Debug\FIGURAS_GEOMÉTRICAS.exe
+C:\Users\Juan\Desktop\SEMESTRE 4\Desarrollo de Software (POO)\FIGURAS_GEOMÉTRICAS\bin\Debug\FIGURAS_GEOMÉTRICAS.pdb
+C:\Users\Juan\Desktop\SEMESTRE 4\Desarrollo de Software (POO)\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\SEMESTRE 4\Desarrollo de Software (POO)\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\SEMESTRE 4\Desarrollo de Software (POO)\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.exe
+C:\Users\Juan\Desktop\SEMESTRE 4\Desarrollo de Software (POO)\FIGURAS_GEOMÉTRICAS\obj\Debug\FIGURAS_GEOMÉTRICAS.pdb
