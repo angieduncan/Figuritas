@@ -27,6 +27,29 @@ namespace FIGURAS_GEOMÉTRICAS
         }
         public void calcularPerimetroCirculo()
         {
+            
+            Console.WriteLine("                  ooo OOO OOO ooo");
+            Console.WriteLine("              oOO                 OOo");
+            Console.WriteLine("          oOO                         OOo");
+            Console.WriteLine("       oOO                               OOo");
+            Console.WriteLine("     oOO                                   OOo");
+            Console.WriteLine("   oOO                                       OOo");
+            Console.WriteLine("  oOO                                         OOo");
+            Console.WriteLine(" oOO                                           OOo");
+            Console.WriteLine("oOO                                             OOo");
+            Console.WriteLine("oOO                                             OOo");
+            Console.WriteLine("oOO                                             OOo");
+            Console.WriteLine("oOO                                             OOo");
+            Console.WriteLine("oOO                                             OOo");
+            Console.WriteLine(" oOO                                           OOo");
+            Console.WriteLine("  oOO                                         OOo");
+            Console.WriteLine("   oOO                                       OOo");
+            Console.WriteLine("     oOO                                   OOo");
+            Console.WriteLine("       oO                                OOo");
+            Console.WriteLine("       oOO                               OOo");
+            Console.WriteLine("          oOO                         OOo");
+            Console.WriteLine("              oOO                 OOo");
+            Console.WriteLine("                  ooo OOO OOO ooo");
             Console.WriteLine("Introduce el valor del diámetro");
             circulito.diametro = Convert.ToDecimal(Console.ReadLine());
             circulito.perimetro = (int)System.Math.PI * circulito.diametro;
